@@ -1,6 +1,6 @@
 Hi 👋 My name is Arnav Chawla
 =============================
-I'm a driven Sophmore student at the University of Washington with a passion for entrepreneurship and development. My current fields of interest include Robotic Process Automation (RPA) and Aritfical Intelligence.
+I'm a driven junor at the University of Washington with a passion for entrepreneurship and software development. My current fields of interest include Robotic Process Automation (RPA) and Aritfical Intelligence.
 
 * 🌍  I'm based in Seattle
 * ✉️  You can contact me at [arnavchawla23@gmail.com](mailto:arnavchawla23@gmail.com)
