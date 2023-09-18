@@ -4,7 +4,7 @@ I'm a driven junor at the University of Washington with a passion for entreprene
 
 * 🌍  I'm based in Seattle
 * ✉️  You can contact me at [arnavchawla23@gmail.com](mailto:arnavchawla23@gmail.com)
-* 🚀  I'm currently working on [Quasi](http://quasi.market)
+* 🚀  I'm currently working on [Learnly](https://learnly.one)
 
 ### Skills
 
