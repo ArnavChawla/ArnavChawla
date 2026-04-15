@@ -4,6 +4,7 @@ Software engineer based in Seattle. Previously SDE I at AWS Elastic Container Re
  
 - 🎓 B.S. Computer Science, University of Washington
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arnav-chawla) · [GitHub](https://github.com/ArnavChawla)
+- 📄 [Resume](./resume.pdf)
 - ✉️ arnavchawla23@gmail.com
  
 ---
