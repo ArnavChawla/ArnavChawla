@@ -14,7 +14,9 @@ Distributed systems, developer infrastructure, and applied AI.
  
 ### Stack
 **Languages:** Java · Python · TypeScript · Go · Scala · C/C++ · SQL
+
 **Frameworks:** React · Django · FastAPI · Spring
+
 **Infra:** AWS · Docker · Terraform · PostgreSQL · DynamoDB
  
 ### Selected Projects
